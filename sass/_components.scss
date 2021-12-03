@@ -194,6 +194,7 @@
   padding: 2.5rem;
   background-color: var(--color-grey-light-2);
   visibility: hidden;
+  z-index: 100;
 
   &__list {
     font-size: 1.5rem;
